@@ -40,3 +40,10 @@ def convert(num):
 print(convert(numberInput))
 
 ```
+
+
+### So an Image Huh
+
+I don't have any pictures of me but I do have one of my favorite necklaces… So here you go!
+
+![Be Greater Than Average Maths Joke](/Img/FunnyNeckless.jpg)
